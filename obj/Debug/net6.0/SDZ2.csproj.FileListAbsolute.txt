@@ -1,0 +1,15 @@
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\bin\Debug\net6.0\SDZ2.exe
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\bin\Debug\net6.0\SDZ2.deps.json
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\bin\Debug\net6.0\SDZ2.runtimeconfig.json
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\bin\Debug\net6.0\SDZ2.dll
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\bin\Debug\net6.0\SDZ2.pdb
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.csproj.AssemblyReference.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.AssemblyInfoInputs.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.AssemblyInfo.cs
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.csproj.CoreCompileInputs.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.dll
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\refint\SDZ2.dll
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.pdb
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\SDZ2.genruntimeconfig.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\SDZ2\obj\Debug\net6.0\ref\SDZ2.dll
